@@ -1,13 +1,11 @@
 # HTX-xData-Technical-Assessment
 
-## Prerequisites
-
 To run the code in this repo, you need to set up a Python environment and install the dependencies in the `requirements.txt` file. 
 
 Use conda to create a new virtual environment:
 
 ```bash
-conda create -n htx python=3.9
+conda create -n htx python=3.10
 conda activate htx
 ```
 
