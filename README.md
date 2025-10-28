@@ -15,7 +15,7 @@ Install the dependencies:
 pip install -r requirements.txt
 ```
 
-You would also need to download the Common Voice dataset and place the files in a `data` folder in the root directory of the repo.
+You will also need to download the Common Voice dataset and place the files in a `data` folder in the root directory of the repo.
 
 The structure should be:
 
