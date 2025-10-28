@@ -37,4 +37,12 @@ requirements.txt
 .gitignore
 ```
 
+## Usage
 
+To start the docker container for task 1e, run the following commands:
+
+```bash
+cd asr
+docker build -t asr-api .
+docker run -d -p 8001:8001 asr-api
+```
